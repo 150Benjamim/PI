@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/ficha5_2.dir/main.c.o -o ficha5_2 

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/benjamim/Desktop/estudar pi/ficha5/Alunos.c
+stdio.h
+-
+string.h
+-
+Alunos.h
+/home/benjamim/Desktop/estudar pi/ficha5/Alunos.h
+
+/home/benjamim/Desktop/estudar pi/ficha5/Alunos.h
+
+/home/benjamim/Desktop/estudar pi/ficha5/main.c
+stdio.h
+-
+Alunos.h
+/home/benjamim/Desktop/estudar pi/ficha5/Alunos.h
+

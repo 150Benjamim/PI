@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/benjamim/Desktop/estudar pi/ficha8/Deque.c
+stdlib.h
+-
+Deque.h
+/home/benjamim/Desktop/estudar pi/ficha8/Deque.h
+
+/home/benjamim/Desktop/estudar pi/ficha8/Deque.h
+

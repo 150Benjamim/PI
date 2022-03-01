@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/ficha9.dir/main.c.o CMakeFiles/ficha9.dir/Abin.c.o -o ficha9 

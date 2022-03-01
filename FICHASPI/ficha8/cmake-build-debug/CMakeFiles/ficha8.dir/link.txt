@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/ficha8.dir/main.c.o CMakeFiles/ficha8.dir/Stack.c.o CMakeFiles/ficha8.dir/Queue.c.o CMakeFiles/ficha8.dir/Deque.c.o -o ficha8 
