@@ -1,1 +1,0 @@
-/usr/bin/cc -g CMakeFiles/ficha7.dir/main.c.o -o ficha7 

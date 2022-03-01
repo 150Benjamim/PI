@@ -1,3 +1,0 @@
-/home/benjamim/Desktop/estudar pi/ficha3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/benjamim/Desktop/estudar pi/ficha3/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/benjamim/Desktop/estudar pi/ficha3/cmake-build-debug/CMakeFiles/ficha3.dir
